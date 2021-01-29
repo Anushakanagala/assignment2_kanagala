@@ -29,3 +29,9 @@ Some of my favourite places which i would reccomend to visit are
 | London | 8 | $1000 |
 | New york | 3 | $300 |
 | California | 5 | $800 |
+
+---
+# My Favourite Quotes
+> "The way to get started is to quit talking and begin doing." - *Walt Disney*
+
+> "If life were predictable it would cease to be life, and be without flavor." - *Eleanor Roosevelt*
