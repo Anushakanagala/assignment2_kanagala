@@ -35,3 +35,27 @@ Some of my favourite places which i would reccomend to visit are
 > "The way to get started is to quit talking and begin doing." - *Walt Disney*
 
 > "If life were predictable it would cease to be life, and be without flavor." - *Eleanor Roosevelt*
+
+---
+> T-SQL (Transact-SQL) is a set of programming extensions from Sybase and Microsoft that add several features to the Structured Query Language (SQL), including transaction control, exception and error handling, row processing and declared variables.
+
+Source link <https://searchsqlserver.techtarget.com/definition/T-SQL#:~:text=T%2DSQL%20(Transact%2DSQL)%20is%20a%20set%20of,row%20processing%20and%20declared%20variables.>
+
+```
+USE master;  
+GO
+
+ALTER DATABASE Solutions   
+ADD FILE 
+(  
+    NAME = Solutions_dat_2,  
+    FILENAME = 'D:\mssql\data\Solutions_dat2.ndf',  
+    SIZE = 10MB,  
+    MAXSIZE = 100MB,  
+    FILEGROWTH = 5%  
+);
+GO
+
+```
+code source <https://www.quackit.com/sql_server/t-sql/examples/>
+
