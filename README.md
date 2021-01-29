@@ -17,4 +17,15 @@
 - Able to afford fee.
 - Able to copeup with the course work.
 
-[About me](AboutMe.md)
+**[About me](AboutMe.md)**
+
+---
+## places to visit
+Some of my favourite places which i would reccomend to visit are
+
+| Location | Spending Days | Expenditure |
+| :---: | :---: | :---: |
+| Paris | 6 | $500 |
+| London | 8 | $1000 |
+| New york | 3 | $300 |
+| California | 5 | $800 |
