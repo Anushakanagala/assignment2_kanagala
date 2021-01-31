@@ -3,6 +3,9 @@
 ###### Paneer Tikka
  >Paneer tikka is an Indian dish made from chunks of paneer **marinated in spices** and grilled in a tandoor.It is a vegetarian alternative .It is a popular dish that is widely available in India and countries with an Indian diaspora.
 
+ ![Paneer Tikka](images/paneertikka.jpg)
+ ![Paneer Tikka](images/paneertikka1.jpg)
+
 ---
 **The College Application Process**
  1. Research and Self-Reflection.
@@ -29,6 +32,13 @@ Some of my favourite places which i would reccomend to visit are
 | London | 8 | $1000 |
 | New york | 3 | $300 |
 | California | 5 | $800 |
+
+
+![Pris](images/paris.jpg)
+![London](images/london.jpg)
+![New Yorkn](images/newyork.jpg)
+![California](images/california.jpg)
+
 
 ---
 # My Favourite Quotes
