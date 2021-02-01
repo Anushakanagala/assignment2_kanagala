@@ -47,6 +47,7 @@ Some of my favourite places which i would reccomend to visit are
 > "If life were predictable it would cease to be life, and be without flavor." - *Eleanor Roosevelt*
 
 ---
+# T- SQL
 > T-SQL (Transact-SQL) is a set of programming extensions from Sybase and Microsoft that add several features to the Structured Query Language (SQL), including transaction control, exception and error handling, row processing and declared variables.
 
 Source link <https://searchsqlserver.techtarget.com/definition/T-SQL#:~:text=T%2DSQL%20(Transact%2DSQL)%20is%20a%20set%20of,row%20processing%20and%20declared%20variables.>
